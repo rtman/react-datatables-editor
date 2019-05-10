@@ -35,7 +35,7 @@ export default class DataTable extends React.Component {
             // ajax: "../php/staff.php",
             // table: "#example",
             idSrc: 'id',
-            table: this.dataTable,
+            table: this.$el,
             fields: [
                 { label: "Name", name: "name"},
                 { label: "Category", name: "category"},
