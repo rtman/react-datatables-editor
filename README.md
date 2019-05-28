@@ -1,4 +1,6 @@
-## WARNING: Editor is a for pay, commercial piece of software. You can however get a free trial off the website. This complicates the package installation procedure by requiring you to install the package from npm as well as download the trial from the website below. You are then required to run the `install.js` script in `node_modules/datatables.net-editor/` which will replace the files in your node modules directory and allow the usage of editor either for the trial or the full version (if you have bought it). You will have to re run this script every time you update or modify node_modules with npm/yarn.
+## WARNING: Editor is a for pay, commercial piece of software.
+
+You can however get a free trial off the website. This complicates the package installation procedure by requiring you to install the package from npm as well as download the trial from the website below. You are then required to run the `install.js` script in `node_modules/datatables.net-editor/` which will replace the files in your node modules directory and allow the usage of editor either for the trial or the full version (if you have bought it). You will have to re run this script every time you update or modify node_modules with npm/yarn.
 
 Here is the command I use from the project root:
 `node node_modules/datatables.net-editor/install.js ../Editor-1.9.0.zip`
