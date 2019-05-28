@@ -2683,27 +2683,6 @@ datatables.net-editor@^1.6.5:
   dependencies:
     adm-zip "^0.4.7"
 
-datatables.net-fixedcolumns-dt@^3.2.6:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/datatables.net-fixedcolumns-dt/-/datatables.net-fixedcolumns-dt-3.2.6.tgz#5e7df3da4f345e64403c20467f9ebfbdfebe0ede"
-  dependencies:
-    datatables.net-dt "^1.10.15"
-    datatables.net-fixedcolumns "3.2.6"
-    jquery ">=1.7"
-
-datatables.net-fixedcolumns@3.2.6, datatables.net-fixedcolumns@^3.2.6:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/datatables.net-fixedcolumns/-/datatables.net-fixedcolumns-3.2.6.tgz#7b9b2f40cfe689568fac9835db89385b482872cb"
-  dependencies:
-    datatables.net "^1.10.15"
-    jquery ">=1.7"
-
-datatables.net-scrollresize@../datatables.net-scrollresize:
-  version "1.0.0"
-  dependencies:
-    datatables.net "^1.10.15"
-    jquery ">=1.7"
-
 datatables.net-select-dt@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/datatables.net-select-dt/-/datatables.net-select-dt-1.3.0.tgz#7f34c44f0387982d27f90aae72073004e3efba69"
